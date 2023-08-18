@@ -1,1 +1,2 @@
-# Neural_Network_for_Bi_Exp
+# Neural Network for Bi Exponentials Instructions
+1.
